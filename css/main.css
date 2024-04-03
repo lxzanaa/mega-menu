@@ -98,9 +98,6 @@ a {
     opacity: 0;
     visibility: hidden;
 }
-@media (min-width:992px) {
-    
-}
 .header .menu>ul>li.menu-item-has-children:hover .sub-menu {
     margin-top: 0;
     visibility: visible;
